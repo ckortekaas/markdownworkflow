@@ -20,3 +20,5 @@ Sometimes you just gotta *try* things out to __see__! ~~I once was blind~~
 
 
 You know.. you can just use the github.com editor GUI and it works just fine really
+
+lets see how it handles merging via guis..
